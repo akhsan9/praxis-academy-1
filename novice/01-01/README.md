@@ -7,3 +7,5 @@ Tanggal : Senin, 02-Maret-2020
 Ringkasan Materi
 
 Penjelasan ISI Repo
+
+Lisensi
