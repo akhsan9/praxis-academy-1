@@ -3,7 +3,7 @@
 
     Judul: Dasar-dasar Pemrograman python
     Oleh: Agus Sugiono
-    Tanggal : 
+    Tanggal : 3 maret 2020 (Selasa)
     Ringkasan materi :Python adalah sebuah bahasa pemrograman tingkat 
     tinggi berorientasi objek yang diciptakan oleh Guido van Rossum. 
     Python memiliki sintaks yang sederhana dan mudah, sehingga 
