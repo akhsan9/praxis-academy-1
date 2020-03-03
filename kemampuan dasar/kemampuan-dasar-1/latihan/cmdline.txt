@@ -1,0 +1,29 @@
+1. ls (Listing File) Perintah pada terminal untuk mengetahui daftar apa daja yang ada di direktori tersebut.
+
+2. mkdir (Make directory) Perintah untuk membuat direktori / folder baru.
+
+3. rm (remove) perintah untuk menghapus file.
+
+4. mv (move) perintah untuk memindahkan file / direktori pada tempat tertentu.
+
+5. rmdir(remove directory) perintah untuk menghapus direktori
+
+6. Clear / Ctrl + L perintah untuk membersihkan layar console pada terminal
+
+7. sudo apt-get update perintah untuk mengupdate sistem yang terinstall di linux
+
+8. sudo apt-get upgrade perintah untuk mengupgrade sistemm yang terinstall di linux
+
+9. Chown (Change Owner) Perintah ini digunakan untuk mengubah kepemilikan pada suatu file atau folder kepada user tertentu. Tujuannya adalah supaya hanya user yang mempunyai file atau folder itu yang bisa membukanya.
+
+10. Chmod (change mode) Perintah ini digunakan untuk mengubah mode dari file atau folder, Read, write, execute. 
+
+11. help perintah untuk melihat panduan singkat penggunaan script.
+
+12. cd perintah untuk masuk ke dalam direktori / berpindah ke direktori tertentu.
+
+13. pwd perintah untuk mengetahui direktori mana yang aktif.
+
+14. find Perintah untuk mencari file dalam direktori hirarki.
+
+15. grep perintah untuk mencari kata Menampilkan baris yang mengandung kata yang sama sesuai dengan pattern.
