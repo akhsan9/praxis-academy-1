@@ -185,10 +185,11 @@ Hasilnya
 Set adalah struktur data berisi kumpulan data tak terurut (unordered). Set bersifat mutable, kita dapat menambah maupun
 mengurangi data yang ada di dalamnya. Elemen di dalam set harus unik, tidak boleh ada duplikasi elemen pada set. Elemen di
 dalam set harus berupa eleman yang immutable, setiap elemen yang ada tidak boleh berubah (bedakan dengan set-nya sendiri yang
-mutable). Ini berarti, Elemen set hanya dapat berupa string, number, dan tuple.
+mutable). Ini berarti, Elemen set hanya dapat berupa string, number, dan tuple [4].
 
 #### daftar pustaka
 
 1. https://www.datacamp.com/community/tutorials/data-structures-python
 2. https://python.swaroopch.com/data_structures.html
 3. https://www.petanikode.com/python-list/
+4. https://koding.alza.web.id/struktur-data-set/
