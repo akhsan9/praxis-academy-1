@@ -42,3 +42,13 @@ Overloading Fungsi – Overloading fungsi adalah fungsi yang memiliki nama yang 
 **Metode** – Metode adalah fungsi yang didefinisikan di dalam suatu kelas
 
 **Objek** – Objek adalah instansiasi atau perwujudan dari sebuah kelas. Bila kelas adalah prototipenya, dan objek adalah barang jadinya.
+
+### Pembuatan Class
+Kita mendefinisikan sebuah kelas dengan menggunakan kata kunci class diikuti oleh nama kelas tersebut.
+```python
+class ClassName:
+    '''class docstring'''
+    class_body
+```
+Kelas memiliki docstring atau string dokumentasi yang bersifat opsional artinya bisa ada atau tidak. 
+Docstring bisa diakses menggunakan format ClassName.__doc__ class_body terdiri dari semua pernyataan berupa attribut, fungsi, dan data dari kelas
