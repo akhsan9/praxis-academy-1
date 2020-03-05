@@ -17,8 +17,10 @@ oleh para praktisi OOP.[1] UML merupakan dasar bagi perangkat (tool) desain bero
 UML adalah suatu bahasa yang digunakan untuk menentukan, memvisualisasikan, membangun, dan mendokumentasikan suatu sistem informasi
 
 
-Penjelasan tentang isi repo : Repo berisi Latihan OOP Lanjutan 
-pada python  dan menggambar class diagram menggunakan draw.io
+Penjelasan tentang isi repo : Repo **latihan** berisi Latihan OOP Lanjutan 
+pada python  dan menggambar class diagram menggunakan draw.io.
+Repo **kasus** berisi tentang pembuatan sistem ATM (Automatic Teller Machine) **sederhana**
+menggunakan bahasa python. (https://eturo.blogspot.com/2012/01/tutorial-simple-atm-machine-program-in.html)
 
 Lisensi : MIT
 
