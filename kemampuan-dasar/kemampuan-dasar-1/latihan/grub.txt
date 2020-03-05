@@ -1,0 +1,12 @@
+Melihat Parameter Grub yang saya Gunakan di laptop saya
+
+$ cat /proc/cmdline
+
+=======Atau Bisa juga dengan perintah========
+
+$ dmesg | grep "Command line"
+
+============ Hasil Keluaran Pada Terminal ===========
+
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.15.0-76-generic root=UUID=30ecf9df-a0bb-4aef-9532-3a3ea7bc8f40 ro quiet splash vt.handoff=1
+
