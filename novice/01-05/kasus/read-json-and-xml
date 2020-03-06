@@ -1,0 +1,26 @@
+## Membaca file json dan xml menggunakan python script
+
+1. Buat File Json dan xml nya.
+2. Masih dalam folder yang sama, buat scrip python untuk membaca file json dan xml (contoh ada di bawah)
+3. Cetak file keluarannya.
+
+### membaca file json
+
+```python
+import json
+
+file_json = open("os.json")  # buka file Json
+
+data = json.loads(file_json.read())  # loading json file
+
+print(data)  # cetak isi data
+```
+
+outputnya
+
+```python
+[{'Name': 'Debian', 'Version': '9', 'Install': 'apt', 'Owner': 'SPI', 'Kernel': '4.9'}, {'Name': 'Ubuntu', 'Version': '17.10', 'Install': 'apt', 'Owner': 'Canonical', 'Kernel': '4.13'
+}, {'Name': 'Fedora', 'Version': '26', 'Install': 'dnf', 'Owner': 'Red Hat', 'Kernel': '4.13'}, {'Name': 'CentOS', 'Version': '7', 'Install': 'yum', 'Owner': 'Red Hat', 'Kernel': '3.1
+0'}, {'Name': 'OpenSUSE', 'Version': '42.3', 'Install': 'zypper', 'Owner': 'Novell', 'Kernel': '4.4'}, {'Name': 'Arch Linux', 'Version': 'Rolling Release', 'Install': 'pacman', 'Owner
+': 'SPI', 'Kernel': '4.13'}, {'Name': 'Gentoo', 'Version': 'Rolling Release', 'Install': 'emerge', 'Owner': 'Gentoo Foundation', 'Kernel': '4.12'}]
+```
