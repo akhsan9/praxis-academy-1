@@ -24,3 +24,9 @@ outputnya
 0'}, {'Name': 'OpenSUSE', 'Version': '42.3', 'Install': 'zypper', 'Owner': 'Novell', 'Kernel': '4.4'}, {'Name': 'Arch Linux', 'Version': 'Rolling Release', 'Install': 'pacman', 'Owner
 ': 'SPI', 'Kernel': '4.13'}, {'Name': 'Gentoo', 'Version': 'Rolling Release', 'Install': 'emerge', 'Owner': 'Gentoo Foundation', 'Kernel': '4.12'}]
 ```
+
+#### xml parse
+
+Python memungkinkan kita melakukan parsing (penguraian) dan manipulasi terhadap file XML dengan DOM API. 
+DOM (Document Object Model) adalah sebuah API yang menyediakan fungsi-fungsi untuk memanipulasi dokumen.
+Salah satu modul DOM yang dapat kita gunakan untuk parsing XML adalah MiniDOM.
