@@ -109,3 +109,6 @@
    </element>
 </root>
 ```
+kita beri nama kedua file tersebut dengan
+os.json
+os.xml
