@@ -1,7 +1,10 @@
 # Serialisasi Data
 
 Oleh:Agus Sugiono
-Tanggal : 6 Maret 2020 - Jumat
+
+#### Tanggal : 6 Maret 2020 - Jumat
+
+
 Intinya Serialisasi adalah proses mengubah objek Python menjadi JSON. 
 Sedangkan deserialisasi adalah proses mengubah JSON menjadi obejek Python
 
