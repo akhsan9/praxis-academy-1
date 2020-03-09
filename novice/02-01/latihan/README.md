@@ -16,3 +16,8 @@ plus = add
 
 plus(3, 4)
 ```
+isi repo ini akan menjelaskan dari artikel tentang fungsional programing dari:
+
+1. Python and Functional Programming.
+2. Best Practices for Using Functional Programming in Python.
+3. Functional Programming in Python

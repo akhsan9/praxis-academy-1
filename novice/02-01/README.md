@@ -16,6 +16,11 @@ menghasilkan hasil yang sama secara berturut-turut. Dengan demikian pemrograman
 fungsional adalah pemrograman yang mempunyai karakteristik 'The absence of side effects'.
 Artinya fungsi yang ditulis tidak bergantung pada data. Pemrograman fungsional juga
 membawa gaya baru dalam menulis kode sehingga bisa lebih menghemat baris kode[3].
+Pemrograman fungsional dikategorikan menjadi pemrograman fungsional murni dan pemrograman fungsional tidak murni.
+
+Haskel adalah bahasa pemrograman yang mendukung pemrograman fungsional murni,sedangkan 
+C++, Elixir, JavaScript, PHP, Python, Rust, Scala. adalah BAHASA pemrograman yang mendukung
+Paradigma pemrograman fungsional tidak murni. 
 
 
 ### Penjelasan tentang isi repo
