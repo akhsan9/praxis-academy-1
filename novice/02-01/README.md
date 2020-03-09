@@ -1,6 +1,7 @@
 # Functional Programming
 
 Oleh: Agus Sugiono
+
 Tanggal : Senin, 09 Maret 2020
 
 ### Functional Programming
@@ -24,7 +25,7 @@ Functional Programming di Python. Dan mengerjakan kasus merubah menjadi kode pyt
 java script.
 
 ### Lisensi
-    **MIT**
+    MIT
 #### Daftar Pustaka
 
 1. "Functional programming - HaskellWiki". wiki.haskell.org
