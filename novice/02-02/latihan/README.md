@@ -57,6 +57,12 @@ mengisolasi bagian mana dari sistem yang gagal. Pada Kasus mobil tadi Jika lampu
 tidak menyala, maka mungkin bohlamnya rusak. Apakah baterainya mati?
 Bagaimana dengan alternator? Apakah komputer mobil rusak?
 
-Unit Tes adalah tes yang lebih kecil, yang memeriksa apakah satu komponen 
+Unit Tes adalah tes yang lebih kecil, yang memeriksa apakah satu komponen
 beroperasi dengan cara yang benar. Tes unit membantu Anda mengisolasi apa
 yang error dalam aplikasi Anda dan memperbaikinya lebih cepat.
+
+### Memilih tools untuk Pengujian/Testting
+Ada banyak unittest dalam Python namun hanya beberapa yang popular yaitu:
+1. unittest (Merupakan Library default pada Python)
+2. nose / nose2
+3. pytest
