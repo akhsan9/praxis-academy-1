@@ -39,3 +39,24 @@ membandingkan hasil yang diharapkan dengan hasil yang sebenarnya. Sehingga dapat
 mengetahui apakah aplikasi berjalan sesuai dengan apa yang diharapkan,
 menggunakan automated testing dapat dilakukan secara berulang. Sehingga jika
 hasilnya tidak sama dengan yang diharapkan maka akan mendapatkan bug.
+
+### unittest vs Integration Tests
+
+Dunia pengujian/Testing tidak memiliki kekurangan terminologi, dan sekarang
+kita tahu perbedaan antara pengujian otomatis dan manual, saatnya untuk naik
+ke level yang lebih dalam. Sekarang bayangkan bagaimana kita bisa menguji
+lampu pada mobil. Kita akan menyalakan lampu (dikenal sebagai langkah uji)
+dan pergi ke luar mobil atau meminta teman untuk memeriksa bahwa lampu menyala
+(dikenal sebagai pernyataan uji). Pengujian beberapa komponen dikenal sebagai
+pengujian integrasi/Integration Test.
+
+
+Tantangan utama dengan pengujian integrasi adalah ketika tes integrasi tidak
+memberikan hasil yang tepat. Sangat sulit untuk mendiagnosis masalah tanpa dapat
+mengisolasi bagian mana dari sistem yang gagal. Pada Kasus mobil tadi Jika lampu
+tidak menyala, maka mungkin bohlamnya rusak. Apakah baterainya mati?
+Bagaimana dengan alternator? Apakah komputer mobil rusak?
+
+Unit Tes adalah tes yang lebih kecil, yang memeriksa apakah satu komponen 
+beroperasi dengan cara yang benar. Tes unit membantu Anda mengisolasi apa
+yang error dalam aplikasi Anda dan memperbaikinya lebih cepat.
