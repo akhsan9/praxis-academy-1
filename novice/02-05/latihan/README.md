@@ -37,5 +37,14 @@ tersebut.
 7. Untuk memasukkan nilai gunakan perintah
 ```
 INSERT INTO nsb VALUES('001','Agus','Magelang')
+INSERT INTO nsb VALUES('002','Andra','Jakarta')
+INSERT INTO nsb VALUES('003','Devy','Yogyakarta')
+
 ```
 8. ketikan "SELECT * FROM nsb" untuk melihat data yang telah kita isikan.
+
+| ID     | NAMA   | ALAMAT    |
+| :----- | :----- | :------   |
+| 0001   | Agus   | Magelang  |
+| 0002   | Andra  | Jakarta   |
+| 0003   | Devy   | Yogyakarta|
