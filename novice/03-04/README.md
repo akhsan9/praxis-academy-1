@@ -20,6 +20,9 @@ pengembangan perangkat lunak tersebut.
 3. Dapat diterapkan menggunakan karakteristik yang sama.
 4. Memenuhi kebutuhan semua pihak yang berkepentingan.
 
+Pengujian perangkat lunak sangatlah penting. Hal ini untuk menghindari 
+resiko kegagalan yang ditimbulkan oleh perangkat lunak. Contoh kasus 
+pada peristiwa kecelakaan pesawat. Penerbangan [China Airlines Flight 140](https://en.wikipedia.org/wiki/China_Airlines_Flight_140) dan mesin [Therac-25](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/) medical accelerator
 
 
 ### Daftar Pustaka
