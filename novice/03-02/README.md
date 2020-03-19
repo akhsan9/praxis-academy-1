@@ -1,3 +1,7 @@
+# Membangun Aplikasi Web: Pengenalan Flask
+Oleh: Agus Sugiono
+Selasa, 17 Maret 2020
+
 WSGI Web Server Gateway Interface adalah teknologi menjelaskan bagaimana
 server web berkomunikasi dengan aplikasi web, dan bagaimana aplikasi web dapat
 berproses bersama untuk memproses satu permintaan [1] penjelasan lebih lanjut
